@@ -1,5 +1,4 @@
-## Hi there 👋
-
+ola sou o egon e estou fazendo o curso tecnico de desenvolvimento de sistemas 
 <!--
 **Egon07/Egon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
